@@ -1,0 +1,16 @@
+body{
+    margin-left: 3px;
+    padding: 0;
+
+}
+.flex-text{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.for-w {
+    margin-right: 5px;
+}
+img {
+    width: 350px;
+}
